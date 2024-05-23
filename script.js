@@ -1,3 +1,5 @@
 console.log("cadscdscdsc")
-
-alert("ccdsc")
+console.log("wncjdsncjsndcjkndsjcnsjkcnsdjcnjsdnjdnchsdbcjndssndjkcnsdkjcndkjcnsdjkncjk")
+for(let i = 0;i < 10;i++){
+    console.log("alahakbar")
+}
