@@ -1,1 +1,3 @@
-console.log("dfd");
+console.log("cadscdscdsc")
+
+alert("ccdsc")
