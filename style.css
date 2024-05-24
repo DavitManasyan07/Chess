@@ -1,9 +1,11 @@
-h1 {
-  color: red;
+.sev{
+    height: 50px;
+    width: 50px;
+    background-color: black;
 }
 
-#a {
-  height: 50px;
-  width: 50px;
-  background-color: green;
+.spitak{
+    height: 50px;
+    width: 50px;
+    background-color: white;
 }
