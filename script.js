@@ -8,3 +8,5 @@ for (let i = 0; i < 10; i++) {
 
 
 console.log("nixuya sebe");
+
+console.log("blaaaaaaa")
