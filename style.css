@@ -9,6 +9,11 @@
     width: 50px;
     background-color: white;
 }
+
+.table{
+    border: 2px;
+}
+
 #tableBoard{
     border: 2px;
 }
