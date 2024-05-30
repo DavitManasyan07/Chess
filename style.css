@@ -1,19 +1,19 @@
-.sev{
-    height: 50px;
-    width: 50px;
-    background-color: black;
+.sev {
+  height: 50px;
+  width: 50px;
+  background-color: black;
 }
 
-.spitak{
-    height: 50px;
-    width: 50px;
-    background-color: white;
+.spitak {
+  height: 50px;
+  width: 50px;
+  background-color: white;
 }
 
-.table{
-    border: 2px;
+.table {
+  border: 2px;
 }
 
-#tableBoard{
-    border: 2px;
+#tableBoard {
+  border: 2px;
 }
