@@ -14,3 +14,5 @@ for (let y = 0; y < 8; y++) {
   }
   table.append(trElement);
 }
+
+console.log("nega")
